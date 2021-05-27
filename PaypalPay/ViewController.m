@@ -3,7 +3,7 @@
 //  PaypalPay
 //
 //  Created by Dan-YY on 2021-05-26.
-//sb-ylijq6340161@business.example.com
+//
 //
 
 

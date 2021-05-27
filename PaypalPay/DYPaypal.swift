@@ -54,8 +54,8 @@ class DYPaypalView: UIView {
 
 	private func setupCheckoutConfig() {
 		let config = CheckoutConfig(
-			clientID: "AeTx52Rgb55K1aWoiUOz0AQEf1E3SMrUU8uaJkqRECMk_idDEeJXYTc6RPLmOy7dYLlVhfXB_ufbp47w", //YOUR_CLIENT_ID,
-				returnUrl: "ca.dansstudio.paypalPay://paypalpay",//"YOUR_RETURN_URL",
+			clientID: "", //YOUR_CLIENT_ID,
+				returnUrl: "",//"YOUR_RETURN_URL",
 				environment: .sandbox
 		)
 
