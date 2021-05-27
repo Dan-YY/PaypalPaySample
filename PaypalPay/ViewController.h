@@ -6,8 +6,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PaypalPay-Swift.h"
 
-@interface ViewController : UIViewController
+@interface myViewController : UIViewController
 
 
 @end
