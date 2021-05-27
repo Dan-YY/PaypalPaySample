@@ -1,0 +1,16 @@
+PODS:
+  - PayPalCheckout (0.51.0)
+
+DEPENDENCIES:
+  - PayPalCheckout
+
+SPEC REPOS:
+  trunk:
+    - PayPalCheckout
+
+SPEC CHECKSUMS:
+  PayPalCheckout: c084336be0cbacc860dd9dfc49b4748e5130c345
+
+PODFILE CHECKSUM: 433dabb2451f5da96dc83d7d44795a6223843843
+
+COCOAPODS: 1.10.1

@@ -6,6 +6,7 @@
 //
 
 #import "AppDelegate.h"
+#import "PaypalPay-Bridging-Header.h"
 
 @interface AppDelegate ()
 
@@ -15,9 +16,11 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+
 	// Override point for customization after application launch.
 	return YES;
 }
+
 
 
 #pragma mark - UISceneSession lifecycle
